@@ -11202,4 +11202,11 @@ body {
   padding: 5rem 0;
 }
 
+.header_avatar{
+  display: block;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  margin-right: 0.5rem;
 
+}
